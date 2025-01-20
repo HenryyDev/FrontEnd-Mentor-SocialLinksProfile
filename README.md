@@ -1,6 +1,7 @@
 # Frontend Mentor | Social Links Profile
 
-![Design Preview](./assets/images/design-preview.png)
+![image](https://github.com/user-attachments/assets/2bc24559-77a0-4c0f-8207-e02275c2a178)
+
 
 ## Sobre o Projeto
 
@@ -38,5 +39,5 @@ O layout apresenta:
 
 ## Créditos
 
-Desafio: Frontend Mentor.
+Desafio: Frontend Mentor. <br>
 Desenvolvedor: Henry.
